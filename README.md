@@ -1,11 +1,11 @@
 
-# Cadastro dev
+#  👨‍💻️ Cadastro dev
 
 O projeto é um CRUD básico de contatos de dev's
 
 
 
-## Tecnologias do projeto
+## 💻️ Tecnologias do projeto
 
 NodeJS - [Documentação](https://nodejs.org/en/)
 
@@ -15,7 +15,7 @@ Express - [Documentação](https://expressjs.com/pt-br/)
 
 
 
-## Documentação da API
+##  📚️ Documentação da API
 
 #### Retorna todos os developers ou um developer específico
 
@@ -65,16 +65,7 @@ Express - [Documentação](https://expressjs.com/pt-br/)
 
 
 
-## Contribuindo
-
-Contribuições são sempre bem-vindas!
-
-Veja `contribuindo.md` para saber como começar.
-
-Por favor, siga o `código de conduta` desse projeto.
-
-
-##  Rodando o projeto
+##  🔥️ Rodando o projeto
 
 Para rodar esse projeto em localhost basta seguir os passos:
 
