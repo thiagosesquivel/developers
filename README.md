@@ -19,7 +19,7 @@ Express - [Documentação](https://expressjs.com/pt-br/)
 
 #### Retorna todos os developers ou um developer específico
 
-```http
+```bash
   GET /developers/${id}
 ```
 
@@ -29,7 +29,7 @@ Express - [Documentação](https://expressjs.com/pt-br/)
 
 #### Criar developers
 
-```http
+```bash
   POST /developers/
 ```
 
@@ -41,7 +41,7 @@ Express - [Documentação](https://expressjs.com/pt-br/)
 #### Update developers
 
 
-```http
+```bash
   PUT /developers/${id}
 ```
 
@@ -53,7 +53,7 @@ Express - [Documentação](https://expressjs.com/pt-br/)
 
 #### Deleta developers
 
-```http
+```bash
   DELETE /developers/${id}
 ```
 
@@ -74,7 +74,7 @@ Veja `contribuindo.md` para saber como começar.
 Por favor, siga o `código de conduta` desse projeto.
 
 
-## Deploy
+##  Rodando o projeto
 
 Para rodar esse projeto em localhost basta seguir os passos:
 
